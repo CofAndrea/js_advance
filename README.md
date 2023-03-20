@@ -2,7 +2,7 @@
  # QLife.
 
  
-A simple java application that allows the user to fetch informations from an API life quality
+A simple java application that allows the user to fetch informations on life quality in a wide selection of cities using teleport API
 
 
 ## Description.
